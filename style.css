@@ -1,0 +1,194 @@
+.high{
+    background-image: url(images/cat.webp);
+    height: 2100px;
+    width:100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+   
+ h1{
+   
+    padding-top: 920px;
+    padding-left: 182px;
+    width: 44%;
+    font-weight: bold;
+    display: block;
+    margin: 0px auto;
+    color: black;
+    height: 544px;
+    font-size: 189px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+body{
+    background-color: azure;
+    height: 828px;
+}
+
+
+.bar{
+    /* border: 6px solid rgb(7, 8, 8); */
+    height: 200px;
+}
+.bar ul li{
+    display: inline-block;
+    padding-left: 916px;
+ padding-top: 50px;
+ font-weight: bold;
+    
+    font-size: 108px;
+ 
+}
+
+#heading{
+  
+    padding-left: 79px;
+    font-size: 131px;
+}
+.filler{
+    margin: 0% auto;
+    width: 98%;
+    height: 1689px ;
+    /* border: 7px solid green; */
+    
+}
+
+#img2 {
+ float: left;
+height: 1231px;
+width: 1141px;
+padding: 51px 108px 40px 69px;
+}
+
+.filler p {
+    font-size: 118px;
+    text-align: justify;
+    padding: 13px 60px 0px 72px ;
+   
+}
+
+#call h2{
+    padding-top: 48px;
+    font-size: 118px;
+    margin: left 101px;
+    margin-top: 214px;
+}
+
+.further{
+/* border: 7px solid violet; */
+margin-top: 19px;
+box-sizing: border-box;
+height: 728px;
+}
+
+.further h2{
+font-size: 118px;
+font-weight: bold;
+padding: left 88px;
+margin-top: 422px;
+}
+
+
+.form{
+    margin-left: 57px;
+    padding-top: 57px;
+}
+
+.input{
+    width: 97%;
+    height: 82px;
+    margin-left: 90px;
+}
+
+.further ul {
+    font-size: 70px;
+    height: 62px;
+    padding-left: 128px;
+    font-style: inherit;
+}
+.further ul li{
+    padding: 21px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+input::placeholder{
+font-size: 50px;
+
+}
+
+textarea{
+    font-size: 187px;
+    width: 97%;
+    font-size:large
+}
+.forms{
+    border: 10px solid rgb(189, 38, 38);
+    height: 1522px;
+    width: 97%;
+}
+.forms label{
+    font-size: 74px;
+    margin: 92px;
+}
+.area{
+    margin-top: 10px;
+    margin-left: 94px;
+    width: 96%;
+    height: 594px;
+}
+
+#go input{
+    transform: scale(4.3);
+    margin: 8px 40px;
+}
+
+#go{
+    font-size: 85px;
+    margin-top: 19px;
+    margin-left:89px;
+    padding: 1.4px;
+}
+
+
+button{
+    font-size: 59px;
+    height: 94px;
+    margin-left: 112px;
+    border: 13px solid rgb(88, 19, 19);
+    border-radius: 19px;
+}
+
+#name {
+    font-size: 83px;
+}
+
+#email
+{
+    font-size: 82px;
+}
+#yourmessage
+{
+    font-size: 83px;
+}
+
+
+button:hover{
+    color: rgb(33, 227, 227);
+    font-size: 63px;
+    height: 91px;
+    margin-left: 80px;
+    border: 12px solid rgb(52, 47, 47);
+    border-radius: 22px;
+    background-color: rgb(26, 23, 23);
+}
+
+footer{
+ font-size: 88px;
+    box-sizing: border-box;
+    float: right;
+}
